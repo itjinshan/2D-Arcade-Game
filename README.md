@@ -5,4 +5,9 @@ It is a individual assignment to help student understand the process of building
 
 The whole game was built from scratch using C++ and Openframework
 
+# Controls
+**Space Bar** to start game and also fire missiles
+
+**Arrow Keys** to move the spacecraft around
+
 Enjoy the game!
